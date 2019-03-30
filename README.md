@@ -7,4 +7,4 @@ Input from user was taken at real time  (Like / Dislike ) after each song and ba
 
 Extension of this project includes:
 1. using REST Api to get real time streaming of music using Spotipy API to access Spotify.
-2. Adding features like voice enabled features 
+2. Adding features like voice enable.
