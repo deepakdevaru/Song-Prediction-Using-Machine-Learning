@@ -1,5 +1,5 @@
 # Song-Prediction-Using-Machine-Learning
-Hobby Project : Song Prediction using Upper Confidence Bond Algorithm
+Hobby Project : Song Prediction using Upper Confidence Bond Algorithm in Reinforcement Learning
 
 
 Songs of various generes from Kaggle Dataset was used to select songs according the users interests.
